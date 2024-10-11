@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(217, 221, 224);
+    border-radius: 10px;
+}
+.content{
+    background-color: white;
+    margin: 100px 200px 100px 200px;
+    padding: 60px 120px 60px 120px;
+    text-align: center;
+}
+.asap{
+    border-radius: 2px;
+    font-style: color white;
+
+}
+
+.gift{
+    background-color: #1d1d1d;
+    color: white;
+    padding: 10px 20px;}
+.pop{ color: rgb(255, 183, 2);}
+img{
+    size: 20px 20px 20px 20px;
+}
